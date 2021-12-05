@@ -2,7 +2,7 @@
 HW 4 of the Algorithmic Methods of Data Mining course at the Data Science Master's Degree in Sapienza.
 ## Filippo Mastrogiacomo, Simone Boesso, Andrea Mantuano
 
-Since while we were solving the exercises we realized that collecting everything in a single main file, would make it too long and hard to read, we decided to split it into three different files, one for each exercise. below you will find the description:
+Since while we were solving the exercises we realized that collecting everything in a single main file, would make it too long and hard to read, we decided to split it into three different files, one for each exercise. Below you will find the description:
 
 ## Content description
 1. __`Ex1.ipynb`__: 
