@@ -11,5 +11,5 @@ Since while we were solving the exercises we realized that collecting everything
 	> This file contains the jupyter notebook with our solution of the second exercise.
 3. __`Ex3.ipynb`__: 
 	> This file contains the jupyter notebook with our solution of the third exercise.
-4. __`my_function.py`__: 
+4. __`myFunctions.py`__: 
 	> This file contains some functions that we needed to solve the second exercise.
